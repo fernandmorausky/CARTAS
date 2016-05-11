@@ -13,11 +13,8 @@ c:\users\fernandmorauskyoutlo\documents\visual studio 2015\Projects\Cartas\Carta
 c:\users\fernandmorauskyoutlo\documents\visual studio 2015\Projects\Cartas\Cartas\obj\Debug\Cartas.exe
 c:\users\fernandmorauskyoutlo\documents\visual studio 2015\Projects\Cartas\Cartas\obj\Debug\Cartas.pdb
 C:\Users\fernandojosemaria\Documents\Visual Studio 2015\Projects\Cartas\Cartas\bin\Debug\Cartas.exe.config
-C:\Users\fernandojosemaria\Documents\Visual Studio 2015\Projects\Cartas\Cartas\obj\Debug\Cartas.exe
-C:\Users\fernandojosemaria\Documents\Visual Studio 2015\Projects\Cartas\Cartas\obj\Debug\Cartas.pdb
 C:\Users\fernandojosemaria\Documents\Visual Studio 2015\Projects\Cartas\Cartas\bin\Debug\Cartas.exe
 C:\Users\fernandojosemaria\Documents\Visual Studio 2015\Projects\Cartas\Cartas\bin\Debug\Cartas.pdb
-C:\Users\fernandojosemaria\Documents\Visual Studio 2015\Projects\Cartas\Cartas\obj\Debug\Cartas.csprojResolveAssemblyReference.cache
 C:\Users\fernandojosemaria\Documents\Visual Studio 2015\Projects\Cartas\Cartas\obj\Debug\MainWindow.g.cs
 C:\Users\fernandojosemaria\Documents\Visual Studio 2015\Projects\Cartas\Cartas\obj\Debug\App.g.cs
 C:\Users\fernandojosemaria\Documents\Visual Studio 2015\Projects\Cartas\Cartas\obj\Debug\Cartas_MarkupCompile.cache
@@ -26,3 +23,5 @@ C:\Users\fernandojosemaria\Documents\Visual Studio 2015\Projects\Cartas\Cartas\o
 C:\Users\fernandojosemaria\Documents\Visual Studio 2015\Projects\Cartas\Cartas\obj\Debug\Cartas.g.resources
 C:\Users\fernandojosemaria\Documents\Visual Studio 2015\Projects\Cartas\Cartas\obj\Debug\Cartas.Properties.Resources.resources
 C:\Users\fernandojosemaria\Documents\Visual Studio 2015\Projects\Cartas\Cartas\obj\Debug\Cartas.csproj.GenerateResource.Cache
+C:\Users\fernandojosemaria\Documents\Visual Studio 2015\Projects\Cartas\Cartas\obj\Debug\Cartas.exe
+C:\Users\fernandojosemaria\Documents\Visual Studio 2015\Projects\Cartas\Cartas\obj\Debug\Cartas.pdb

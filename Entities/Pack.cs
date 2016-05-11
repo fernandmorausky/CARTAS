@@ -25,23 +25,36 @@ namespace Cartas.Entities
                 }
             }
         }
+        //public override string ToString()
+        //{
+        //   String result = String.Empty;
+
+        //   foreach (Carta carta in this.packCarta)
+        //   {
+        //      result += carta.ToString() + "\n";
+        //   }
+
+        //   return result;
+        //}
         public Carta repartirCarta()
         {
             Palo palo;
             Valor valor;
             Carta carta;
 
-
             do
             {
-                palo = (Palo)selectorCartas.Next(NumPalos);
-            } while (paloIsEmpty(palo) );
-            do
-            {
-                valor = (Valor)selectorCartas.Next(CartasXPalos);
-            } while (valorIsEmpty(valor));
-            carta= this.packCarta[(int)palo,(int)valor];
-            //this.packCarta[(int)palo,(int) valor] = null;
+                  do
+                  {
+                     palo = (Palo)selectorCartas.Next(NumPalos);
+                  } while (paloIsEmpty(palo));
+                  do
+                  {
+                     valor = (Valor)selectorCartas.Next(CartasXPalos);
+                  } while (valorIsEmpty(valor));
+                  carta = this.packCarta[(int)palo, (int)valor];
+                  this.packCarta[(int)palo, (int)valor] = null;
+            } while (carta==null); 
             return carta;   
         }
 

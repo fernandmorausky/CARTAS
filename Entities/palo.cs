@@ -7,4 +7,4 @@ using System.Threading.Tasks;
 namespace Cartas.Entities
 {
     enum Palo { Cocos,Espada,Trebol,Corazones}
-}
+} 

@@ -8,3 +8,4 @@ namespace Cartas.Entities
 {
     enum Valor { Dos,Tres,Cuatro,Cinco,Seis,Siete,Ocho,Nueve,Diez,J,Q,K,AS }
 }
+ 
