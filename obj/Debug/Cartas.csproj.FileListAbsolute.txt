@@ -1,0 +1,17 @@
+c:\users\fernandmorauskyoutlo\documents\visual studio 2015\Projects\Cartas\Cartas\bin\Debug\Cartas.exe.config
+c:\users\fernandmorauskyoutlo\documents\visual studio 2015\Projects\Cartas\Cartas\bin\Debug\Cartas.exe
+c:\users\fernandmorauskyoutlo\documents\visual studio 2015\Projects\Cartas\Cartas\bin\Debug\Cartas.pdb
+c:\users\fernandmorauskyoutlo\documents\visual studio 2015\Projects\Cartas\Cartas\obj\Debug\Cartas.csprojResolveAssemblyReference.cache
+c:\users\fernandmorauskyoutlo\documents\visual studio 2015\Projects\Cartas\Cartas\obj\Debug\MainWindow.g.cs
+c:\users\fernandmorauskyoutlo\documents\visual studio 2015\Projects\Cartas\Cartas\obj\Debug\App.g.cs
+c:\users\fernandmorauskyoutlo\documents\visual studio 2015\Projects\Cartas\Cartas\obj\Debug\Cartas_MarkupCompile.cache
+c:\users\fernandmorauskyoutlo\documents\visual studio 2015\Projects\Cartas\Cartas\obj\Debug\Cartas_MarkupCompile.lref
+c:\users\fernandmorauskyoutlo\documents\visual studio 2015\Projects\Cartas\Cartas\obj\Debug\MainWindow.baml
+c:\users\fernandmorauskyoutlo\documents\visual studio 2015\Projects\Cartas\Cartas\obj\Debug\Cartas.g.resources
+c:\users\fernandmorauskyoutlo\documents\visual studio 2015\Projects\Cartas\Cartas\obj\Debug\Cartas.Properties.Resources.resources
+c:\users\fernandmorauskyoutlo\documents\visual studio 2015\Projects\Cartas\Cartas\obj\Debug\Cartas.csproj.GenerateResource.Cache
+c:\users\fernandmorauskyoutlo\documents\visual studio 2015\Projects\Cartas\Cartas\obj\Debug\Cartas.exe
+c:\users\fernandmorauskyoutlo\documents\visual studio 2015\Projects\Cartas\Cartas\obj\Debug\Cartas.pdb
+C:\Users\fernandojosemaria\Documents\Visual Studio 2015\Projects\Cartas\Cartas\bin\Debug\Cartas.exe.config
+C:\Users\fernandojosemaria\Documents\Visual Studio 2015\Projects\Cartas\Cartas\obj\Debug\Cartas.exe
+C:\Users\fernandojosemaria\Documents\Visual Studio 2015\Projects\Cartas\Cartas\obj\Debug\Cartas.pdb
