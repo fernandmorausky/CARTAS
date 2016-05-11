@@ -97,12 +97,64 @@
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
     </None>
     <AppDesigner Include="Properties\" />
+    <Resource Include="Resources\bacground.jpg" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\bacground.jpg" />
+    <Resource Include="Resources\CocosAS.png" />
+    <Resource Include="Resources\CocosCinco.png" />
+    <Resource Include="Resources\CocosCuatro.png" />
+    <Resource Include="Resources\CocosDiez.png" />
+    <Resource Include="Resources\CocosDos.png" />
+    <Resource Include="Resources\CocosJ.png" />
+    <Resource Include="Resources\CocosK.png" />
+    <Resource Include="Resources\CocosNueve.png" />
+    <Resource Include="Resources\CocosOcho.png" />
+    <Resource Include="Resources\CocosQ.png" />
+    <Resource Include="Resources\CocosSeis.png" />
+    <Resource Include="Resources\CocosSiete.png" />
+    <Resource Include="Resources\CocosTres.png" />
+    <Resource Include="Resources\CorazonesAS.png" />
+    <Resource Include="Resources\CorazonesCinco.png" />
+    <Resource Include="Resources\CorazonesCuatro.png" />
+    <Resource Include="Resources\CorazonesDiez.png" />
+    <Resource Include="Resources\CorazonesDos.png" />
+    <Resource Include="Resources\CorazonesJ.png" />
+    <Resource Include="Resources\CorazonesK.png" />
+    <Resource Include="Resources\CorazonesNueve.png" />
+    <Resource Include="Resources\CorazonesOcho.png" />
+    <Resource Include="Resources\CorazonesQ.png" />
+    <Resource Include="Resources\CorazonesSeis.png" />
+    <Resource Include="Resources\CorazonesSiete.png" />
+    <Resource Include="Resources\CorazonesTres.png" />
+    <Resource Include="Resources\EspadaAS.png" />
+    <Resource Include="Resources\EspadaCinco.png" />
+    <Resource Include="Resources\EspadaCuatro.png" />
+    <Resource Include="Resources\EspadaDiez.png" />
+    <Resource Include="Resources\EspadaDos.png" />
+    <Resource Include="Resources\EspadaJ.png" />
+    <Resource Include="Resources\EspadaK.png" />
+    <Resource Include="Resources\EspadaNueve.png" />
+    <Resource Include="Resources\EspadaOcho.png" />
+    <Resource Include="Resources\EspadaQ.png" />
+    <Resource Include="Resources\EspadaSeis.png" />
+    <Resource Include="Resources\EspadaSiete.png" />
+    <Resource Include="Resources\EspadaTres.png" />
+    <Resource Include="Resources\TrebolAS.png" />
+    <Resource Include="Resources\TrebolCinco.png" />
+    <Resource Include="Resources\TrebolCuatro.png" />
+    <Resource Include="Resources\TrebolDiez.png" />
+    <Resource Include="Resources\TrebolDos.png" />
+    <Resource Include="Resources\TrebolJ.png" />
+    <Resource Include="Resources\TrebolK.png" />
+    <Resource Include="Resources\TrebolNueve.png" />
+    <Resource Include="Resources\TrebolOcho.png" />
+    <Resource Include="Resources\TrebolQ.png" />
+    <Resource Include="Resources\TrebolSeis.png" />
+    <Resource Include="Resources\TrebolSiete.png" />
+    <Resource Include="Resources\TrebolTres.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

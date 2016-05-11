@@ -121,4 +121,160 @@
   <data name="bacground" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\bacground.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="CocosAS" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CocosAS.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CocosCinco" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CocosCinco.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CocosCuatro" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CocosCuatro.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CocosDiez" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CocosDiez.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CocosDos" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CocosDos.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CocosJ" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CocosJ.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CocosK" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CocosK.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CocosNueve" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CocosNueve.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CocosOcho" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CocosOcho.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CocosQ" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CocosQ.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CocosSeis" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CocosSeis.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CocosSiete" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CocosSiete.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CocosTres" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CocosTres.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CorazonesAS" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CorazonesAS.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CorazonesCinco" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CorazonesCinco.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CorazonesCuatro" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CorazonesCuatro.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CorazonesDiez" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CorazonesDiez.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CorazonesDos" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CorazonesDos.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CorazonesJ" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CorazonesJ.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CorazonesK" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CorazonesK.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CorazonesNueve" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CorazonesNueve.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CorazonesOcho" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CorazonesOcho.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CorazonesQ" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CorazonesQ.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CorazonesSeis" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CorazonesSeis.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CorazonesSiete" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CorazonesSiete.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CorazonesTres" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CorazonesTres.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="EspadaAS" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\EspadaAS.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="EspadaCinco" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\EspadaCinco.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="EspadaCuatro" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\EspadaCuatro.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="EspadaDiez" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\EspadaDiez.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="EspadaDos" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\EspadaDos.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="EspadaJ" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\EspadaJ.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="EspadaK" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\EspadaK.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="EspadaNueve" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\EspadaNueve.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="EspadaOcho" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\EspadaOcho.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="EspadaQ" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\EspadaQ.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="EspadaSeis" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\EspadaSeis.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="EspadaSiete" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\EspadaSiete.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="EspadaTres" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\EspadaTres.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TrebolAS" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TrebolAS.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TrebolCinco" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TrebolCinco.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TrebolCuatro" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TrebolCuatro.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TrebolDiez" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TrebolDiez.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TrebolDos" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TrebolDos.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TrebolJ" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TrebolJ.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TrebolK" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TrebolK.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TrebolNueve" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TrebolNueve.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TrebolOcho" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TrebolOcho.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TrebolQ" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TrebolQ.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TrebolSeis" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TrebolSeis.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TrebolSiete" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TrebolSiete.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TrebolTres" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TrebolTres.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
 </root>

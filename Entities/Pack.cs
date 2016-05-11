@@ -24,18 +24,7 @@ namespace Cartas.Entities
 
                 }
             }
-        }
-        //public override string ToString()
-        //{
-        //   String result = String.Empty;
-
-        //   foreach (Carta carta in this.packCarta)
-        //   {
-        //      result += carta.ToString() + "\n";
-        //   }
-
-        //   return result;
-        //}
+        } 
         public Carta repartirCarta()
         {
             Palo palo;
