@@ -86,17 +86,19 @@ namespace Cartas
                 for (int numMano = 0; numMano < numManos; numMano++)
                 {
                     manos[numMano] = new Mano();
-                    for (int numCartas = 0; numCartas <= Mano.tamMano; numCartas++)
+                    for (int numCartas = 0; numCartas < Mano.tamMano; numCartas++)
                     {
                         Carta repartirCarta = pack.repartirCarta();
                         manos[numMano].addCartaMano(repartirCarta);
                     }
 
-                    txt1.Text = manos[0].ToString();
-                    txt2.Text = manos[1].ToString();
-                    txt3.Text = manos[2].ToString();
-                    txt4.Text = manos[3].ToString();
+                    
                 }
+                txt1.Text = manos[0].ToString();
+                txt2.Text = manos[1].ToString();
+                txt3.Text = manos[2].ToString();
+                txt4.Text = manos[3].ToString();
+
             }
             catch (Exception ex )
             {
