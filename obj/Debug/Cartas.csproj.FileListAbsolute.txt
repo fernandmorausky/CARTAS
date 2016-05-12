@@ -25,3 +25,4 @@ C:\Users\fernandojosemaria\Documents\Visual Studio 2015\Projects\Cartas\Cartas\o
 C:\Users\fernandojosemaria\Documents\Visual Studio 2015\Projects\Cartas\Cartas\obj\Debug\Cartas.csproj.GenerateResource.Cache
 C:\Users\fernandojosemaria\Documents\Visual Studio 2015\Projects\Cartas\Cartas\obj\Debug\Cartas.exe
 C:\Users\fernandojosemaria\Documents\Visual Studio 2015\Projects\Cartas\Cartas\obj\Debug\Cartas.pdb
+C:\Users\fernandojosemaria\Documents\Visual Studio 2015\Projects\Cartas\Cartas\obj\Debug\Cartas.csprojResolveAssemblyReference.cache

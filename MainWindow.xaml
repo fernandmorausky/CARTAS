@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Cartas"
         mc:Ignorable="d"
-        Title="Repartir Cartas" Height="646.076" Width="740.824" BorderBrush="#FF993535" Foreground="#FF456180" RenderTransformOrigin="0.5,0.5" Opacity="0.89" HorizontalAlignment="Center" HorizontalContentAlignment="Center" VerticalAlignment="Center" VerticalContentAlignment="Center" WindowStartupLocation="CenterScreen" FontStyle="Italic" FontWeight="Medium" WindowStyle="None" ResizeMode="NoResize">
+        Title="Repartir Cartas" Height="646.076" Width="875.126" BorderBrush="#FF993535" Foreground="#FF456180" RenderTransformOrigin="0.5,0.5" Opacity="0.89" HorizontalAlignment="Center" HorizontalContentAlignment="Center" VerticalAlignment="Center" VerticalContentAlignment="Center" WindowStartupLocation="CenterScreen" FontStyle="Italic" FontWeight="Medium" WindowStyle="None" ResizeMode="NoResize">
    <Window.Effect>
       <DropShadowEffect Color="#FF682626" BlurRadius="6"/>
    </Window.Effect>
@@ -49,26 +49,6 @@
             </LinearGradientBrush>
          </Button.BorderBrush>
       </Button>
-      <TextBox x:Name="txt1" HorizontalAlignment="Left" Height="271" Margin="10,27,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="158" BorderBrush="{x:Null}" Foreground="Black" VerticalScrollBarVisibility="Auto" AllowDrop="True" IsUndoEnabled="True" HorizontalScrollBarVisibility="Auto" IsEnabled="False" FontWeight="Bold" SelectionBrush="#FF344351">
-         <TextBox.Background>
-            <SolidColorBrush Color="#FF81909E" Opacity="0.285"/>
-         </TextBox.Background>
-      </TextBox>
-      <TextBox x:Name="txt2" HorizontalAlignment="Left" Height="271" Margin="203,27,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="158" BorderBrush="{x:Null}" Foreground="Black" VerticalScrollBarVisibility="Auto" AllowDrop="True" IsUndoEnabled="True" HorizontalScrollBarVisibility="Auto" IsEnabled="False" FontWeight="Bold" SelectionBrush="#FF344351">
-         <TextBox.Background>
-            <SolidColorBrush Color="#FF81909E" Opacity="0.285"/>
-         </TextBox.Background>
-      </TextBox>
-      <TextBox x:Name="txt3" HorizontalAlignment="Left" Height="271" Margin="554,27,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="158" BorderBrush="{x:Null}" Foreground="Black" VerticalScrollBarVisibility="Auto" AllowDrop="True" IsUndoEnabled="True" HorizontalScrollBarVisibility="Auto" IsEnabled="False" FontWeight="Bold" SelectionBrush="#FF344351">
-         <TextBox.Background>
-            <SolidColorBrush Color="#FF81909E" Opacity="0.285"/>
-         </TextBox.Background>
-      </TextBox>
-      <TextBox x:Name="txt4" HorizontalAlignment="Left" Height="271" Margin="380,27,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="158" BorderBrush="{x:Null}" Foreground="Black" VerticalScrollBarVisibility="Auto" AllowDrop="True" IsUndoEnabled="True" HorizontalScrollBarVisibility="Auto" IsEnabled="False" FontWeight="Bold" SelectionBrush="#FF344351">
-         <TextBox.Background>
-            <SolidColorBrush Color="#FF81909E" Opacity="0.285"/>
-         </TextBox.Background>
-      </TextBox>
       <Button x:Name="btnSalir" Content="SALIR" Margin="0,0,364,2" Click="btnSalir_Click" FontFamily="Snap ITC" FontSize="36"  
       	FontWeight="Medium" Background="#FF6C4DBF" Opacity="3" HorizontalContentAlignment="Center" RenderTransformOrigin="0.5,0.5" HorizontalAlignment="Right" 
       	Cursor="None" Height="95" VerticalAlignment="Bottom" Width="228" IsManipulationEnabled="True" ScrollViewer.HorizontalScrollBarVisibility="Auto">
@@ -93,6 +73,35 @@
             </LinearGradientBrush>
          </Button.BorderBrush>
       </Button>
+      <Grid x:Name="grid4" HorizontalAlignment="Left" Height="333" Margin="685,26,0,0" VerticalAlignment="Top" Width="180" RenderTransformOrigin="-0.782,-0.466">
+         <Grid.Background>
+            <SolidColorBrush Color="#FF81909E" Opacity="0.285"/>
+         </Grid.Background>
+
+
+      </Grid>
+      <Grid x:Name="grid2" HorizontalAlignment="Left" Height="333" Margin="229,26,0,0" VerticalAlignment="Top" Width="180" RenderTransformOrigin="-0.782,-0.466">
+         <Grid.Background>
+            <SolidColorBrush Color="#FF81909E" Opacity="0.285"/>
+         </Grid.Background>
+
+
+      </Grid>
+      <Grid x:Name="grid3" HorizontalAlignment="Left" Height="333" Margin="458,26,0,0" VerticalAlignment="Top" Width="180" RenderTransformOrigin="-0.782,-0.466">
+         <Grid.Background>
+            <SolidColorBrush Color="#FF81909E" Opacity="0.285"/>
+         </Grid.Background>
+
+
+      </Grid>
+      <Grid x:Name="grid1" HorizontalAlignment="Left" Height="333" Margin="7,27,0,0" VerticalAlignment="Top" Width="180" RenderTransformOrigin="-0.782,-0.466">
+         <Grid.Background>
+            <SolidColorBrush Color="#FF81909E" Opacity="0.285"/>
+         </Grid.Background>
+
+
+      </Grid>
+
 
    </Grid>
 </Window>

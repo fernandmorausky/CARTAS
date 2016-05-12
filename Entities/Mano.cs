@@ -35,7 +35,9 @@ namespace Cartas.Entities
 
             return result;
         }
-
+       public Carta[]  GetCartas(){
+          return this.cartas;
+       }
 
 
 
